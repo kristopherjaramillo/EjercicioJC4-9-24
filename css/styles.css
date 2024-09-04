@@ -1,0 +1,12 @@
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+#alerta {
+    display: none;
+}
+
+.input-error {
+    border-color: red !important;
+}
